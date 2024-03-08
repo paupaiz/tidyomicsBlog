@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tidyomics.github.io/tidyomicsBlog/sitemap.xml
